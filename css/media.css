@@ -1,0 +1,58 @@
+@media screen and (max-width:767px){
+    .about img{margin-left:0;width: 300px;height:300px;}
+    .about .overlay{width:300px;
+        height:300px;}
+  
+    .our-love .container{height:1000px}
+    .vip{padding-top:1200px}
+    .party .card{ margin-bottom:0}
+    .fun .circle{display:none}
+    .slider .caption h2{ font-size:30px}
+    .slider .caption {bottom: 8%;left: 18%;}
+      .slider .caption p{font-size:13px;
+        letter-spacing:0.4em;}
+        .party .container {padding-top:1100px}
+        .hot .right, .hot .left{text-align: center;}
+        .fun .circle{display:none}
+        .gallery img{width:9%;height:80px;}
+      
+
+
+
+
+}
+
+
+@media screen and (min-width:768px) and (max-width:991px){
+    .navbar-default .navbar-nav > li > a {font-size:11px;}
+        .slider .caption { bottom: 32%;}
+        .fun .circle{display:none}
+
+
+
+
+
+
+}
+
+
+
+
+
+
+@media screen and (min-width:992px) and (max-width:1199px){
+    .navbar-default .navbar-nav > li > a {
+        font-size:16px;}
+
+
+
+
+
+
+}
+
+
+
+
+
+
